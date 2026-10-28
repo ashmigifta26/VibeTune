@@ -1,0 +1,151 @@
+id,title,artist,genre,mood,duration,rating,energy
+1,Nila Kaigirathu,A. R. Rahman,Tamil,calm,4:32,4.8,2
+2,Munbe Vaa,Shreya Ghoshal,Tamil,romantic,5:58,4.9,3
+3,Vaseegara,Bombay Jayashri,Tamil,romantic,4:59,4.8,2
+4,New York Nagaram,A. R. Rahman,Tamil,sad,6:17,4.7,3
+5,Why This Kolaveri Di,Dhanush,Tamil,happy,4:09,4.3,8
+6,Enjoy Enjaami,Dhee,Tamil,happy,4:39,4.6,8
+7,Vaathi Coming,Anirudh Ravichander,Tamil,energetic,3:48,4.7,9
+8,Arabic Kuthu,Anirudh Ravichander,Tamil,energetic,4:39,4.5,9
+9,Perfect,Ed Sheeran,Pop,romantic,4:23,4.8,3
+10,A Sky Full of Stars,Coldplay,Pop,happy,4:27,4.7,8
+11,Lovely,Billie Eilish,Pop,sad,3:20,4.6,3
+12,Levitating,Dua Lipa,Pop,energetic,3:23,4.6,9
+13,Weightless,Marconi Union,Lo-fi,calm,8:09,4.5,1
+14,Coffee Breath,Sofia Mills,Lo-fi,calm,2:46,4.2,2
+15,Study Session,Chillhop Radio,Lo-fi,calm,3:15,4.4,2
+16,Sunset Lover,Petit Biscuit,Lo-fi,happy,3:57,4.6,5
+17,Believer,Imagine Dragons,Rock,energetic,3:24,4.7,10
+18,Demons,Imagine Dragons,Rock,sad,2:57,4.5,4
+19,Counting Stars,OneRepublic,Rock,happy,4:17,4.6,8
+20,Thunderstruck,AC/DC,Rock,energetic,4:52,4.7,10
+21,Clair de Lune,Claude Debussy,Classical,calm,5:02,4.9,1
+22,Canon in D,Johann Pachelbel,Classical,romantic,5:14,4.7,2
+23,Gymnopédie No. 1,Erik Satie,Classical,calm,3:18,4.6,1
+24,Eine kleine Nachtmusik,Mozart,Classical,happy,5:50,4.6,5
+25,Lose Yourself,Eminem,Hip-Hop,energetic,5:26,4.7,10
+26,Sunflower,Post Malone,Hip-Hop,happy,2:38,4.5,6
+27,Mockingbird,Eminem,Hip-Hop,sad,4:11,4.6,4
+28,Good Life,Kanye West,Hip-Hop,happy,3:27,4.3,7
+29,Golden Hour,JVKE,Pop,romantic,3:29,4.6,4
+30,Until I Found You,Stephen Sanchez,Pop,romantic,2:57,4.7,3
+31,Anbil Avan,Devan Ekambaram,Tamil,romantic,5:19,4.7,3
+32,Hosanna,Vijay Prakash,Tamil,romantic,5:30,4.8,4
+33,Thalli Pogathey,Sid Sriram,Tamil,sad,4:27,4.8,4
+34,Aaromale,Alphons Joseph,Tamil,calm,5:46,4.7,3
+35,Vennilave Vennilave,Hariharan,Tamil,romantic,5:52,4.8,2
+36,Suttrum Vizhi,Sriram Parthasarathy,Tamil,romantic,5:19,4.7,3
+37,Pachai Nirame,Hariharan,Tamil,calm,5:59,4.7,3
+38,Anbe En Anbe,Harish Raghavendra,Tamil,sad,5:10,4.5,3
+39,New New,S. P. B. Charan,Tamil,happy,4:20,4.2,7
+40,Appadi Podu,KK,Tamil,energetic,4:52,4.5,9
+41,Aaluma Doluma,Anirudh Ravichander,Tamil,energetic,4:18,4.5,10
+42,Chellamma,Anirudh Ravichander,Tamil,happy,3:56,4.4,8
+43,Megham Karukatha,Dhanush,Tamil,romantic,4:50,4.6,4
+44,Katchi Sera,Sai Abhyankkar,Tamil,happy,3:02,4.6,7
+45,Kaavaalaa,Shilpa Rao,Tamil,energetic,3:10,4.5,9
+46,Chillanjirukkiye,Sean Roldan,Tamil,romantic,3:38,4.6,4
+47,Nenjukkul Peidhidum,Hariharan,Tamil,romantic,6:09,4.8,3
+48,Vinnaithaandi Varuvaayaa,Karthik,Tamil,sad,3:12,4.6,3
+49,Oru Maalai,Karthik,Tamil,calm,5:55,4.6,3
+50,Yennai Arindhaal,Harris Jayaraj,Tamil,energetic,5:45,4.4,7
+51,Shape of You,Ed Sheeran,Pop,happy,3:53,4.6,8
+52,Photograph,Ed Sheeran,Pop,romantic,4:19,4.7,3
+53,Blinding Lights,The Weeknd,Pop,energetic,3:20,4.7,9
+54,Save Your Tears,The Weeknd,Pop,sad,3:35,4.5,6
+55,Flowers,Miley Cyrus,Pop,happy,3:20,4.6,7
+56,Anti-Hero,Taylor Swift,Pop,sad,3:20,4.5,5
+57,Cruel Summer,Taylor Swift,Pop,energetic,2:58,4.7,8
+58,Love Story,Taylor Swift,Pop,romantic,3:55,4.7,5
+59,Birds of a Feather,Billie Eilish,Pop,romantic,3:30,4.6,4
+60,Ocean Eyes,Billie Eilish,Pop,calm,3:20,4.6,2
+61,As It Was,Harry Styles,Pop,happy,2:47,4.6,7
+62,Watermelon Sugar,Harry Styles,Pop,happy,2:54,4.5,8
+63,Night Changes,One Direction,Pop,romantic,3:46,4.7,4
+64,What Makes You Beautiful,One Direction,Pop,happy,3:19,4.5,8
+65,Memories,Maroon 5,Pop,sad,3:09,4.4,3
+66,Sugar,Maroon 5,Pop,happy,3:55,4.4,7
+67,Uptown Funk,Mark Ronson,Pop,energetic,4:30,4.7,10
+68,Shivers,Ed Sheeran,Pop,energetic,3:27,4.5,8
+69,Dandelions,Ruth B.,Pop,romantic,3:53,4.6,3
+70,Daylight,David Kushner,Pop,sad,3:33,4.5,3
+71,Rain on the Window,VibeTune Sessions,Lo-fi,calm,2:58,4.4,1
+72,Midnight Study Room,VibeTune Sessions,Lo-fi,calm,3:14,4.5,1
+73,Soft Focus,Chillhop Radio,Lo-fi,calm,2:48,4.3,1
+74,Clouds at 2 AM,VibeTune Sessions,Lo-fi,sad,3:06,4.2,2
+75,Warm Coffee,LoFi Garden,Lo-fi,calm,2:39,4.4,1
+76,Slow Sunday,LoFi Garden,Lo-fi,happy,3:11,4.3,2
+77,Blue Hour,Chillhop Radio,Lo-fi,sad,3:22,4.4,2
+78,Window Seat,VibeTune Sessions,Lo-fi,calm,2:57,4.3,1
+79,Late Night Notes,LoFi Garden,Lo-fi,calm,3:09,4.5,1
+80,Paper Planes,Chillhop Radio,Lo-fi,happy,2:51,4.2,3
+81,Quiet Corners,VibeTune Sessions,Lo-fi,calm,3:18,4.4,1
+82,Moonlit Walk,LoFi Garden,Lo-fi,romantic,3:04,4.3,2
+83,Rainy Day Pages,Chillhop Radio,Lo-fi,calm,2:45,4.4,1
+84,Floating Lights,VibeTune Sessions,Lo-fi,happy,3:16,4.3,3
+85,Small Hours,LoFi Garden,Lo-fi,sad,3:08,4.2,1
+86,Deep Work Loop,Chillhop Radio,Lo-fi,calm,4:00,4.5,1
+87,Golden Dust,VibeTune Sessions,Lo-fi,happy,2:53,4.3,2
+88,Blue Notebook,LoFi Garden,Lo-fi,calm,3:21,4.4,1
+89,After the Rain,Chillhop Radio,Lo-fi,calm,3:05,4.5,1
+90,Sleepy Streets,VibeTune Sessions,Lo-fi,calm,3:12,4.3,1
+91,Bohemian Rhapsody,Queen,Rock,energetic,5:55,4.9,9
+92,Dont Stop Me Now,Queen,Rock,happy,3:29,4.8,10
+93,We Will Rock You,Queen,Rock,energetic,2:02,4.7,9
+94,Smells Like Teen Spirit,Nirvana,Rock,energetic,5:01,4.7,9
+95,Wonderwall,Oasis,Rock,sad,4:18,4.6,5
+96,Hotel California,Eagles,Rock,calm,6:30,4.8,5
+97,Sweet Child O Mine,Guns N Roses,Rock,energetic,5:56,4.8,9
+98,Numb,Linkin Park,Rock,sad,3:07,4.7,7
+99,In the End,Linkin Park,Rock,energetic,3:36,4.7,8
+100,Viva La Vida,Coldplay,Rock,happy,4:02,4.8,7
+101,Fix You,Coldplay,Rock,sad,4:55,4.7,3
+102,Yellow,Coldplay,Rock,romantic,4:26,4.7,4
+103,Radioactive,Imagine Dragons,Rock,energetic,3:06,4.6,9
+104,Whatever It Takes,Imagine Dragons,Rock,energetic,3:21,4.5,9
+105,Take Me to Church,Hozier,Rock,sad,4:02,4.6,5
+106,Seven Nation Army,The White Stripes,Rock,energetic,3:51,4.7,8
+107,Dream On,Aerosmith,Rock,energetic,4:28,4.7,7
+108,Zombie,The Cranberries,Rock,sad,5:06,4.6,6
+109,Iris,Goo Goo Dolls,Rock,romantic,4:49,4.7,4
+110,The Nights,Avicii,Rock,happy,2:56,4.7,9
+111,Moonlight Sonata,Ludwig van Beethoven,Classical,sad,5:40,4.9,1
+112,Für Elise,Ludwig van Beethoven,Classical,happy,2:53,4.8,2
+113,The Four Seasons: Spring,Antonio Vivaldi,Classical,happy,3:28,4.8,4
+114,The Four Seasons: Winter,Antonio Vivaldi,Classical,energetic,3:20,4.7,5
+115,Nocturne Op. 9 No. 2,Frédéric Chopin,Classical,romantic,4:30,4.9,1
+116,Prelude in E Minor,Frédéric Chopin,Classical,sad,2:18,4.7,1
+117,Swan Lake Theme,Pyotr Ilyich Tchaikovsky,Classical,romantic,3:05,4.8,2
+118,Dance of the Sugar Plum Fairy,Pyotr Ilyich Tchaikovsky,Classical,happy,2:12,4.7,3
+119,The Blue Danube,Johann Strauss II,Classical,happy,7:00,4.8,4
+120,Ride of the Valkyries,Richard Wagner,Classical,energetic,5:02,4.7,8
+121,Prelude in C Major,Johann Sebastian Bach,Classical,calm,2:18,4.8,1
+122,Air on the G String,Johann Sebastian Bach,Classical,calm,5:22,4.8,1
+123,Adagio for Strings,Samuel Barber,Classical,sad,8:25,4.7,1
+124,Rhapsody in Blue,George Gershwin,Classical,happy,16:00,4.7,5
+125,Boléro,Maurice Ravel,Classical,energetic,15:00,4.7,5
+126,Peer Gynt: Morning Mood,Edvard Grieg,Classical,calm,4:00,4.7,1
+127,Liebestraum No. 3,Franz Liszt,Classical,romantic,4:20,4.8,2
+128,Requiem: Lacrimosa,Wolfgang Amadeus Mozart,Classical,sad,3:20,4.8,2
+129,Hungarian Dance No. 5,Johannes Brahms,Classical,happy,2:40,4.7,7
+130,Clair de Lune (Piano),Piano Classics,Classical,calm,5:02,4.8,1
+131,HUMBLE.,Kendrick Lamar,Hip-Hop,energetic,2:57,4.7,9
+132,DNA.,Kendrick Lamar,Hip-Hop,energetic,3:05,4.7,10
+133,Gods Plan,Drake,Hip-Hop,happy,3:19,4.6,7
+134,Hotline Bling,Drake,Hip-Hop,sad,4:27,4.5,5
+135,Sicko Mode,Travis Scott,Hip-Hop,energetic,5:12,4.6,10
+136,Industry Baby,Lil Nas X,Hip-Hop,energetic,3:32,4.6,9
+137,Old Town Road,Lil Nas X,Hip-Hop,happy,2:37,4.5,8
+138,Rockstar,Post Malone,Hip-Hop,energetic,3:38,4.5,8
+139,Circles,Post Malone,Hip-Hop,sad,3:35,4.5,4
+140,Lucid Dreams,Juice WRLD,Hip-Hop,sad,3:59,4.6,4
+141,The Real Slim Shady,Eminem,Hip-Hop,happy,4:44,4.7,8
+142,Without Me,Eminem,Hip-Hop,happy,4:50,4.7,8
+143,Stan,Eminem,Hip-Hop,sad,6:44,4.7,4
+144,Stronger,Kanye West,Hip-Hop,energetic,5:12,4.6,9
+145,Power,Kanye West,Hip-Hop,energetic,4:52,4.6,9
+146,Empire State of Mind,Jay-Z,Hip-Hop,happy,4:36,4.7,8
+147,Lose Control,Missy Elliott,Hip-Hop,energetic,3:47,4.5,9
+148,See You Again,Wiz Khalifa,Hip-Hop,sad,3:49,4.6,3
+149,Good as Hell,Lizzo,Hip-Hop,happy,2:39,4.5,8
+150,Run This Town,Jay-Z,Hip-Hop,energetic,4:27,4.5,8

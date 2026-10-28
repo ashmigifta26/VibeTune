@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+vibetune_users.db
+test_vibetune_users.db
